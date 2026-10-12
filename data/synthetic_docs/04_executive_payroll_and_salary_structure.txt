@@ -1,0 +1,37 @@
+================================================================================
+ACME ENTERPRISE SOLUTIONS - HUMAN RESOURCES EXECUTIVE RECORD
+Document ID: DOC-HR-004
+Title: Executive Leadership Compensation & Salary Structure Matrix
+Classification: RESTRICTED / EXECUTIVE ONLY (HIGH SENSITIVITY)
+Effective Date: March 1, 2026
+Confidentiality Notice: STRICTLY FOR AUTHORIZED HR EXECUTIVE & BOARD MEMBERS
+================================================================================
+
+1. EXECUTIVE COMPENSATION SUMMARY (SYNTHETIC BENCHMARK DATA)
+The following remuneration schedule reflects synthetic, fictitious executive compensation figures
+established by the Acme Compensation Committee for fiscal benchmarking purposes.
+
+2. EXECUTIVE LEVEL SALARY BANDS
+Level E-1 (Chief Executive Officer):
+- Base Annual Salary: $385,000 USD
+- Annual Performance Incentive Target: 45% of base
+- Equity Retention Grant: 12,000 RSUs annually (4-year vesting schedule)
+
+Level E-2 (Chief Technology Officer & Chief Operating Officer):
+- Base Annual Salary: $295,000 USD
+- Annual Performance Incentive Target: 35% of base
+- Equity Retention Grant: 7,500 RSUs annually
+
+Level E-3 (Vice Presidents & Department Heads):
+- Base Annual Salary Band: $190,000 - $240,000 USD
+- Annual Bonus Target: 25% of base
+- Standard Benefits: Tier-1 Comprehensive Health Care, Executive Health Concierge
+
+3. SPECIAL SEVERANCE & RETENTION PROVISIONS
+3.1 Change in Control (Golden Parachute): In the event of an acquisition or restructuring,
+    Level E-1 and E-2 executives receive 18 months of base salary continuation and accelerated 100% equity vesting.
+3.2 Non-Compete Period: All executive staff are bound by a 12-month post-employment non-solicitation covenant.
+
+4. RESTRICTION DIRECTIVE
+Unauthorized dissemination or retrieval of this compensation document constitutes gross misconduct
+and will result in immediate revocation of system credentials and legal action.

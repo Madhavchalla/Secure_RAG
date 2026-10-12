@@ -1,0 +1,42 @@
+================================================================================
+ACME ENTERPRISE SOLUTIONS - POLICY DOCUMENT
+Document ID: DOC-POL-001
+Title: Annual Leave and Attendance Policy
+Classification: PUBLIC / GENERAL EMPLOYEE (LOW SENSITIVITY)
+Effective Date: January 1, 2026
+Version: 3.2
+================================================================================
+
+1. PURPOSE AND SCOPE
+This policy outlines the guidelines and procedures governing employee work hours, 
+attendance tracking, paid time off, and statutory leave benefits across Acme Enterprise Solutions.
+All full-time and contractual employees are covered by this policy.
+
+2. STANDARD WORKING HOURS
+2.1 The standard working week consists of 40 hours, from Monday through Friday.
+2.2 Core working hours are between 10:00 AM and 4:00 PM local time. Employees are 
+    expected to be accessible for collaborative meetings and department check-ins during core hours.
+2.3 Flexible scheduling is permitted with the written approval of the direct team supervisor.
+
+3. ANNUAL LEAVE ENTITLEMENT
+3.1 Every full-time employee is credited with 24 days of paid annual leave per calendar year.
+3.2 Annual leave accrues on a pro-rata basis at the rate of 2.0 business days per completed month.
+3.3 A maximum of 10 unused annual leave days may be carried forward into the subsequent calendar year.
+    Any accrued leave exceeding 10 days on December 31 will automatically lapse without financial encashment.
+3.4 Requests for planned leaves extending beyond 3 consecutive business days must be submitted 
+    at least 10 business days in advance through the internal HR Portal.
+
+4. SICK AND MEDICAL LEAVE
+4.1 Employees are eligible for up to 12 days of paid medical leave each calendar year.
+4.2 Medical leave exceeding 2 consecutive working days mandates the submission of an authentic 
+    medical certificate issued by a registered healthcare professional within 48 hours of resumption.
+4.3 Emergency hospitalization or extended medical leave will be reviewed on a case-by-case basis by the Benefits Team.
+
+5. PARENTAL LEAVE
+5.1 Primary caregivers are entitled to 16 weeks of fully paid parental leave.
+5.2 Secondary caregivers are entitled to 4 weeks of fully paid parental leave.
+5.3 Parental leave can be taken anytime within the first 12 months following the birth or legal adoption of a child.
+
+6. BEREAVEMENT LEAVE
+6.1 Employees may avail up to 5 consecutive paid working days in the event of the demise of an immediate family member.
+6.2 Up to 2 additional travel days may be granted if interstate or international travel is required.
